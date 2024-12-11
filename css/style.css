@@ -34,7 +34,6 @@ h3 {
   margin: 6px 12px;
 
   @media (width <= 40em) {
-    /*font-size: 16px; */
     margin: 2px 6px;
   }
 }
